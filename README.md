@@ -20,7 +20,12 @@ Remember !
 2. For directory server ie. express & mysql2
 >npm install
 
+---------------------------------------------------------
 
+Some of the things used are
+Front-end: react, bootstrap@4.6(cdn), axios
+
+Back-end: node.js, express.js, mysql2
 
 --------------------------------------------------------------------
 # Getting Started with Create React App
